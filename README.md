@@ -44,9 +44,9 @@ Automation will be added **only after** you understand the manual process.
 
 ## Getting Started
 
-👉 Go to the **Issues** tab and start with the first issue labeled `level:0`.
+Go to the **Issues** tab and start with the first issue labeled `level:0`.
 
 Good luck. Build slowly. Build correctly.
 Commit directly to main
 
-🧠 Why This Step Is Non-Negotiable
+Why This Step Is Non-Negotiable
