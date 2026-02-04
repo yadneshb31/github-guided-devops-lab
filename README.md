@@ -46,6 +46,8 @@ Automation will be added **only after** you understand the manual process.
 
 Go to the **Issues** tab and start with the first issue labeled `level:0`.
 
+Best of Luck!
+
 Good luck. Build slowly. Build correctly.
 Commit directly to main
 
